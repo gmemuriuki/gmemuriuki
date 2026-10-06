@@ -1,11 +1,22 @@
-Hi there 👋 You’re probably here to get to know the person behind the curtain. So, sit tight.
+## Hello there friend 👋
 
-My name is James Muriuki, but you can call me gme (pronounced “Jimmie”). I’m from Kenya, East Africa, and I’m an open-source Rust developer hacking on a really awesome project called Symposium, where I’m one of the maintainers.
+I know you’re here because you want to know me, or at least get an idea of the person at this corner of the internet. So, sit tight.
 
-I loved Rust before I even knew what its syntax looked like. Learning it seemed like a good way to turn that enthusiasm into something useful, and finally have something to bring to the friendly arguments with my talkative JavaScript and Python friends at university.
+My name is James Muriuki, but you can call me gme (Jimmie). I’m from Kenya, East Africa. I’m an open-source Rust developer hacking on [Symposium](https://github.com/symposium-dev/symposium), where I’m one of the maintainers.
 
-A few months into learning, after watching RustConf talks going all the way back to Rust 1.0, I stumbled across [this talk from 2023](https://www.youtube.com/watch?v=pM_c4HNiEB0). It made me want to be in the room with the people shaping Rust. That’s when I started finding my way into the community.
+I realized I loved Rust before I even knew what its syntax looked like. So I decided to learn it, partly to have something to bring to the friendly debates with talkative JavaScript and Python enthusiasts at university (then).
 
-Since then, I’ve hacked on A-MIR-Formality, Cargo, Battery Pack, and Symposium. I’m planning to stick around for a very long time. For now, I’m building my understanding, contributing where I can, and taking small steps toward that future. You’ll also find me in language design meetings, Cargo meetings, and other Rust discussions, listening, learning, and asking questions.
+After a few months of learning and watching RustConf talks going back to Rust 1.0, I came across [this talk from 2023](https://www.youtube.com/watch?v=pM_c4HNiEB0). That’s when I realized I wanted to be in the room with the awesome people in this community. From there, I started getting involved in all things Rust.
 
-I’m happy to be here, and excited to help shape Rust’s future.
+### What I’m up to
+
+- 🔭 Hacking on [Symposium](https://github.com/symposium-dev/symposium), with contributions to [A-MIR-Formality](https://github.com/rust-lang/a-mir-formality), [Cargo](https://github.com/rust-lang/cargo), and [Battery Pack](https://github.com/rust-battery-pack/battery-pack).
+- 🌱 Building my understanding of Rust, its compiler, and language design.
+- 👯 Learning alongside the community through language design meetings, Cargo meetings, and other Rust discussions.
+- ⚡ Founder of **Rust For Life**, an imaginary working group with very real enthusiasm.
+
+I plan to stick around Rust for a very long time. Right now, I’m learning, contributing, and taking baby steps toward that goal.
+
+I’m happy to be here and super motivated to help shape Rust’s future.
+
+If you’ve made it this far, I want you to know that you, too, can become a great Rustacean. Keep learning, ask questions, and get involved. There’s room for you here. 🦀
