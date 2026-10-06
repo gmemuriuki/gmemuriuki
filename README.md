@@ -17,7 +17,7 @@ There’s a line I came across that captures this beautifully: “Most people co
 - 👯 Learning alongside the community through language design meetings, Cargo meetings, and other Rust discussions.
 - ⚡ Founder of **Rust For Life**, an imaginary working group with very real enthusiasm.
 
-I plan to stick around Rust for a very long time. Right now, I’m learning, contributing, and taking baby steps toward that goal.
+I hope to spend years helping shape Rust’s future. Today, I’m starting with what I can offer: curiosity, a willingness to learn, and contributions I can build on.
 
 I’m happy to be here and super motivated to help shape Rust’s future.
 
