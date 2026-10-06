@@ -8,7 +8,7 @@ I realized I loved Rust before I even knew what its syntax looked like. So I dec
 
 After a few months of learning and watching RustConf talks going back to Rust pre-1.0, I came across [this talk from 2023](https://www.youtube.com/watch?v=pM_c4HNiEB0). That’s when I realized I wanted to be in the room with the awesome people in this community. From there, I started getting involved in all things Rust.
 
-There’s a line I came across that captures this beautifully: “Most people come to Rust for the promise of technology, but stay for the people.” The more I get involved, the more those words feel like my own story.
+There’s a line I came across that captures this beautifully: “Most people come to Rust for the promise of good technology, but stay for the people.” The more I get involved, the more those words feel like my own story.
 
 ### What I’m up to
 
