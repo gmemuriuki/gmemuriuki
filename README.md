@@ -21,4 +21,8 @@ I plan to stick around Rust for a very long time. Right now, I’m learning, con
 
 I’m happy to be here and super motivated to help shape Rust’s future.
 
-If you’ve made it this far, I want you to know that you, too, can become a great Rustacean. Keep learning, ask questions, and get involved. There’s room for you here. 🦀
+If you’ve made it this far, I hope you’ll remember this:
+
+“You don’t have to know enough Rust to impress the room. Bring your curiosity, and give the room a chance to learn from you.”
+
+-- James Muriuki
