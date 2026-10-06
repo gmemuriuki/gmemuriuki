@@ -21,6 +21,7 @@ I plan to stick around Rust for a very long time. Right now, I’m learning, con
 
 I’m happy to be here and super motivated to help shape Rust’s future.
 
+---
 If you’ve made it this far, I want you to know that you, too, can become a great Rustacean.
 
 “Some of the Rust you’re waiting to understand is waiting for you in the work you’re afraid to contribute.”
