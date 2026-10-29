@@ -24,6 +24,6 @@ I’m happy to be here and super motivated to help shape Rust’s future.
 ---
 If you’ve made it this far, I want you to know that you, too, can become a great Rustacean.
 
-“Some of the Rust you’re waiting to understand is waiting for you in the work you’re afraid to contribute.”
+“Every language has things it cannot express. A good community lets you question whether they should stay that way.”
 
 -- James Muriuki
