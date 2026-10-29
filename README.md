@@ -22,8 +22,8 @@ I hope to spend years helping shape Rust’s future. Today, I’m starting with 
 I’m happy to be here and super motivated to help shape Rust’s future.
 
 ---
-If you’ve made it this far, remember: the Rustaceans you look up to haven’t met everyone they’ll one day look up to.
----
+_**If you’ve made it this far, remember: the Rustaceans you look up to haven’t met everyone they’ll one day look up to.**_
+
 
 “Every language has things it cannot express. A good community lets you question whether they should stay that way.”
 
